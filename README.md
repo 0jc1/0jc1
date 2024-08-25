@@ -5,7 +5,6 @@ I'm a freelance developer with a specialization in modern software.
 
 # GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0jc1)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=0jc1)](https://github.com/anuraghazra/github-readme-stats)
 
 #
