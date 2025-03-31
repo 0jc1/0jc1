@@ -13,12 +13,10 @@
     <table>
         <tr>
             <td>
-                <a href="https://github.com/anuraghazra/github-readme-stats">
-                    <img src="https://github-readme-stats.vercel.app/api?username=0jc1&bg_color=90,FFFFFF0F,FFFFFF08&show_icons=true&hide_border=true"
-                        height="175" alt="stats">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0jc1&bg_color=90,FFFFFF0F,FFFFFF08&layout=compact&langs_count=6&hide_border=true"
-                        height="175" alt="languages">
-                </a>
+                <img src="https://github-readme-stats.vercel.app/api?username=0jc1&bg_color=90,FFFFFF0F,FFFFFF08&show_icons=true&hide_border=true"
+                    height="175" alt="stats"><img width="30">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0jc1&bg_color=90,FFFFFF0F,FFFFFF08&layout=compact&langs_count=6&hide_border=true"
+                    height="175" alt="languages">
             </td>
         </tr>
     </table>
