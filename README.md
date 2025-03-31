@@ -9,21 +9,11 @@
 ![Rust](https://img.shields.io/badge/Rust-%23DEA584.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
----
-
 ## GitHub Stats:
-<center>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0jc1&bg_color=2D2D2D&text_color=ffffff&title_color=F59E0B&layout=compact&langs_count=6&hide_border=true" height="170" alt="Top Languages">
-        <img width="15">
-        <img src="https://github-readme-stats.vercel.app/api?username=0jc1&bg_color=2D2D2D&text_color=ffffff&title_color=F59E0B&show_icons=true&hide_border=true" height="170" alt="GitHub Stats">
-      </td>
-    </tr>
-  </table>
-</center>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0jc1&bg_color=2D2D2D&text_color=ffffff&title_color=F59E0B&layout=compact&langs_count=6&hide_border=true" height="170" alt="Top Languages"><img width="10">
+  <img src="https://github-readme-stats.vercel.app/api?username=0jc1&bg_color=2D2D2D&text_color=ffffff&title_color=F59E0B&show_icons=true&hide_border=true" height="170" alt="GitHub Stats">
+</p>
 
----
-
+#
 ![](https://komarev.com/ghpvc/?username=0jc1&color=F59E0B)
