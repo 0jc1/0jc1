@@ -11,11 +11,18 @@
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
+---
+
 ### GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0jc1&bg_color=2D2D2D&text_color=ffffff&title_color=10B981&layout=compact&langs_count=6&hide_border=true" height="165" alt="Top Languages"><img width="10">
-  <img src="https://github-readme-stats.vercel.app/api?username=0jc1&bg_color=2D2D2D&text_color=ffffff&title_color=10B981&show_icons=true&hide_border=true" height="165" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0jc1&theme=github_dark" height="165" alt="Top Languages"><img width="10">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0jc1&theme=github_dark" height="165" alt="GitHub Stats">
 </p>
 
-#
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0jc1&theme=github_dark" alt="Profile Details">
+</p>
+
+---
+
 ![](https://komarev.com/ghpvc/?username=0jc1&color=10B981)
