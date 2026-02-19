@@ -1,4 +1,4 @@
-### Tech
+## Tech
 <div>
   <a href="#"><img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB"></a>
   <a href="#"><img src="https://img.shields.io/badge/Lua-0D1117?style=flat-square&logo=lua&logoColor=2C2D72"></a>
@@ -13,12 +13,12 @@
 
 
 
-### GitHub Stats
+## GitHub Stats
 <div align="left" style="display:flex; flex-wrap:wrap; justify-content:center;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0jc1&theme=github_dark" height="166">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0jc1&theme=github_dark" height="170">
   <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0jc1&theme=transparent" height="162">-->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0jc1&theme=github_dark" height="166">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0jc1&theme=github_dark" height="166">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0jc1&theme=github_dark" height="170">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0jc1&theme=github_dark" height="168" >
 
 </div>
 
