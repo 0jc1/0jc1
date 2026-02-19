@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0jc1&theme=github_dark" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0jc1&theme=github_dark" height="165" alt="Profile Details">
 </p>
 
 ---
