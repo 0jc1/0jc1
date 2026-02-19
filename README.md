@@ -10,7 +10,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8"></a>
   <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=c%2B%2B&logoColor=00599C"></a>
   <a href="#"><img src="https://img.shields.io/badge/Haskell-0D1117?style=flat-square&logo=haskell&logoColor=5e5086"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=4EAA25"></a>
+  <!--<a href="#"><img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=4EAA25"></a>-->
 </p>
 
 
