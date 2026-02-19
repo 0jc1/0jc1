@@ -14,11 +14,11 @@
 
 
 ### GitHub Stats
-<div align="left" style="display:flex; flex-wrap:wrap; justify-content:center; gap:2px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0jc1&theme=transparent" height="162">
+<div align="left" style="display:flex; flex-wrap:wrap; justify-content:center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0jc1&theme=transparent" height="166">
   <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0jc1&theme=transparent" height="162">-->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0jc1&theme=transparent" height="162">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0jc1&theme=transparent" height="162">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0jc1&theme=transparent" height="166">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0jc1&theme=transparent" height="166">
 
 </div>
 
