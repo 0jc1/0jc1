@@ -1,5 +1,5 @@
 ### Tech
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/0jc1/0jc1/main/.github/spacer.png" width="1" height="24" alt="" />
   <a href="#"><img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB"></a>
   <a href="#"><img src="https://img.shields.io/badge/Lua-0D1117?style=flat-square&logo=lua&logoColor=2C2D72"></a>
@@ -15,13 +15,13 @@
 
 
 ### GitHub Stats
-<p align="left">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0jc1&theme=transparent" height="168">
   <img width="8">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0jc1&theme=transparent" height="168">
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0jc1&theme=transparent" height="168">
 </p>
 
