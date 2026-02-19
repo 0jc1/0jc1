@@ -11,15 +11,10 @@
   <a href="#"><img src="https://img.shields.io/badge/Haskell-0D1117?style=flat-square&logo=haskell&logoColor=5e5086"></a>
 </div>
 
-
-
 ## GitHub Stats
-<div align="left" style="display:flex; flex-wrap:wrap; justify-content:center;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0jc1&theme=github_dark" height="170">
-  <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0jc1&theme=transparent" height="162">-->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0jc1&theme=github_dark" height="170">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0jc1&theme=github_dark" height="168" >
-
+<div align="left" style="display:flex; flex-wrap:wrap; justify-content: center; ">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0jc1&theme=github_dark" height="168" >
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0jc1&theme=github_dark" height="168">
 </div>
 
 #
