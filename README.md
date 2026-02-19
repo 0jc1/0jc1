@@ -1,5 +1,5 @@
 ## Tech
-<p align="center">
+<p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB"></a>
   <a href="#"><img src="https://img.shields.io/badge/Lua-0D1117?style=flat-square&logo=lua&logoColor=2C2D72"></a>
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6"></a>
@@ -12,12 +12,12 @@
 </p>
 
 ## GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0jc1&theme=github_dark" height="168">
   <img width="8">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0jc1&theme=github_dark" height="168">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0jc1&theme=github_dark" height="168">
 </p>
