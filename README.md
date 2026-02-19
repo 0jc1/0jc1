@@ -1,6 +1,5 @@
 ### Tech
 <p>
-  <img src="https://raw.githubusercontent.com/0jc1/0jc1/main/.github/spacer.png" width="1" height="24" alt="" />
   <a href="#"><img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB"></a>
   <a href="#"><img src="https://img.shields.io/badge/Lua-0D1117?style=flat-square&logo=lua&logoColor=2C2D72"></a>
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6"></a>
@@ -12,6 +11,8 @@
   <a href="#"><img src="https://img.shields.io/badge/Haskell-0D1117?style=flat-square&logo=haskell&logoColor=5e5086"></a>
 </p>
 
+#
+
 ### GitHub Stats
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0jc1&theme=transparent" height="168">
@@ -22,6 +23,8 @@
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0jc1&theme=transparent" height="168">
 </p>
+
+#
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=0jc1&style=flat-square&color=0D1117&label=Profile+Views">
