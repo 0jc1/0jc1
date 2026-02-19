@@ -12,15 +12,11 @@
 </p>
 
 ### GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0jc1&theme=transparent" height="168">
-  <img width="8">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0jc1&theme=transparent" height="168">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0jc1&theme=transparent" height="168">
-</p>
+<div align="left" style="display:flex; flex-wrap:wrap; justify-content:center; gap:6px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0jc1&theme=transparent" height="145">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0jc1&theme=transparent" height="145">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0jc1&theme=transparent" height="145">
+</div>
 
 #
 
