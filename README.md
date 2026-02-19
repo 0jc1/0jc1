@@ -11,8 +11,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Haskell-0D1117?style=flat-square&logo=haskell&logoColor=5e5086"></a>
 </p>
 
-#
-
 ### GitHub Stats
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0jc1&theme=transparent" height="168">
@@ -23,6 +21,8 @@
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0jc1&theme=transparent" height="168">
 </p>
+
+#
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=0jc1&style=flat-square&color=0D1117&label=Profile+Views">
