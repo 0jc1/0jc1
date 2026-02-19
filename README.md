@@ -12,12 +12,12 @@
 </p>
 
 ## GitHub Stats
-<p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0jc1&theme=github_dark" height="168">
   <img width="8">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0jc1&theme=github_dark" height="168">
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0jc1&theme=github_dark" height="168">
 </p>
