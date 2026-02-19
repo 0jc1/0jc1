@@ -14,7 +14,7 @@
 
 
 ### GitHub Stats
-<div align="left" style="display:flex; flex-wrap:wrap; justify-content:center; gap:4px;">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:4px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0jc1&theme=transparent" height="160">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0jc1&theme=transparent" height="160">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0jc1&theme=transparent" height="160">
