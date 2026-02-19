@@ -1,5 +1,5 @@
 ### Tech
-<p>
+<div>
   <a href="#"><img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB"></a>
   <a href="#"><img src="https://img.shields.io/badge/Lua-0D1117?style=flat-square&logo=lua&logoColor=2C2D72"></a>
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6"></a>
@@ -9,13 +9,15 @@
   <a href="#"><img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8"></a>
   <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=c%2B%2B&logoColor=00599C"></a>
   <a href="#"><img src="https://img.shields.io/badge/Haskell-0D1117?style=flat-square&logo=haskell&logoColor=5e5086"></a>
-</p>
+</div>
+
+
 
 ### GitHub Stats
 <div align="left" style="display:flex; flex-wrap:wrap; justify-content:center; gap:6px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0jc1&theme=transparent" height="145">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0jc1&theme=transparent" height="145">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0jc1&theme=transparent" height="145">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0jc1&theme=transparent" height="160">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0jc1&theme=transparent" height="160">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0jc1&theme=transparent" height="160">
 </div>
 
 #
